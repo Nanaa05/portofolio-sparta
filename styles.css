@@ -1,0 +1,44 @@
+body{
+    margin:0px;
+    background-color: rgb(0, 0, 0);
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+    width: auto;
+    height: 100px;
+    font-size: 90px;
+    color:white;
+}
+.body{
+    background-color: rgb(70, 70, 70);
+    width: auto;
+    height: fit-content;
+}
+
+.container{
+    padding:10px;
+}
+
+.title{
+    display: block;
+}
+
+.image{
+    width: 300px;
+    border-radius: 5px;
+    margin: 0px 50px;
+}
+
+.title{
+    width: auto;
+    height: 70px;
+    font-size: 50px;
+    color:white;
+}
+
+.content{
+
+}
