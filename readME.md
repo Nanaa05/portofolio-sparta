@@ -8,8 +8,8 @@ Teknologi yang digunakan adalah menggunakan HTML dan CSS tanpa framework
 Tekan link berikut ini: https://portofolio-sparta.vercel.app/
 
 # Bonus yang dikerjakan
-1. Deployment: telesai<br>
-2. Tampilan yang responsif: tidak mengerjakan<br>
+1. Deployment: selesai (menggunakan vercel)<br>
+2. Tampilan yang responsif: tidak mengerjakan (hanya layak bagi tampilan desktop)<br>
 3. Penggunaan Basis data atau CMS: tidak mengerjakan<br>
 4. Kreativitas: ada navigation bar<br>
 
